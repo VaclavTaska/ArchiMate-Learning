@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="1-Purpose" id="id-e58a5d991cb54ed8b776d9f2ea50d390" version="5.0.0">
+  <folder name="Strategy" id="id-4edff5265fc74df0898866720bc8a49d" type="strategy"/>
+  <folder name="Business" id="id-51907663ada94f6cb57f10fbb973fdab" type="business"/>
+  <folder name="Application" id="id-51813ce26b8c40bd8d84cfd17117d8e2" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-ba289a5ea76644ada15cda5dee4a6730" type="technology"/>
+  <folder name="Motivation" id="id-b4931fd771094da9b8de98e5efe699cb" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-7fd317c7a03946d8a716839770084a38" type="implementation_migration"/>
+  <folder name="Other" id="id-b1253f703e8f4bb1bf58337e69b90a6e" type="other"/>
+  <folder name="Relations" id="id-1102f9b2410249d7a6356d43f0c328ad" type="relations"/>
+  <folder name="Views" id="id-bdd12a354fd94f8f9f87a0244517e63c" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Figure 1: ArchiMate Framework" id="id-7423f132f2dc4a68b0a43b6c18cfd575">
+      <child xsi:type="archimate:Note" id="id-326789d338944073b6e1b819e852c727" font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textPosition="1" borderType="2">
+        <bounds x="168" y="36" width="416" height="43"/>
+        <content>Figure 1: ArchiMate Framework&#xD;
+</content>
+      </child>
+      <child xsi:type="archimate:Note" id="id-75352c2b455243a387eb1987df667f6a" textAlignment="1" fillColor="#ff8000" textPosition="1" borderType="1">
+        <bounds x="36" y="144" width="577" height="80"/>
+        <content>Strategy&#xD;
+</content>
+      </child>
+      <child xsi:type="archimate:Note" id="id-7d87dfae37fa49c1b647cff6fd73c145" textAlignment="1" fillColor="#ffff80" textPosition="1" borderType="1">
+        <bounds x="36" y="240" width="577" height="80"/>
+        <content>Business</content>
+      </child>
+      <child xsi:type="archimate:Note" id="id-3c67444b5f7f4fcfa716f9e32ab5a630" textAlignment="1" fillColor="#80ffff" textPosition="1" borderType="1">
+        <bounds x="36" y="336" width="577" height="80"/>
+        <content>Application</content>
+      </child>
+      <child xsi:type="archimate:Note" id="id-9542b59f67d44c1baacacc80445a68bd" textAlignment="1" fillColor="#80ff80" borderType="1">
+        <bounds x="36" y="432" width="577" height="80"/>
+        <content>Technology</content>
+      </child>
+      <child xsi:type="archimate:Note" id="id-3d8f01acd96841d790e9be97c4ed2b1c" textAlignment="1" fillColor="#ff80ff" textPosition="1" borderType="1">
+        <bounds x="36" y="528" width="577" height="80"/>
+        <content>Implementation &amp; Migration</content>
+      </child>
+      <child xsi:type="archimate:Note" id="id-33553db8a2d448e2953a6e8091b93409" textAlignment="1" fillColor="#008000" textPosition="1" borderType="1">
+        <bounds x="54" y="468" width="541" height="37"/>
+        <content>Physical</content>
+      </child>
+      <child xsi:type="archimate:Note" id="id-05fac584b88e4630adaa24b77df6f292" alpha="140" borderType="1">
+        <bounds x="252" y="114" width="79" height="511"/>
+        <content>Passive Structure</content>
+      </child>
+      <child xsi:type="archimate:Note" id="id-6ace52e20ca74b5fa6918c1a3e1f2f96" alpha="140" borderType="1">
+        <bounds x="372" y="114" width="79" height="511"/>
+        <content>Behavior&#xD;
+</content>
+      </child>
+      <child xsi:type="archimate:Note" id="id-497f4b05e7004b7689d8c1df58608886" alpha="140" borderType="1">
+        <bounds x="492" y="114" width="79" height="511"/>
+        <content>Active Structure</content>
+      </child>
+      <child xsi:type="archimate:Note" id="id-c7081ec10f8c4428a9b7e613584f834f" textAlignment="1" alpha="0" borderType="1">
+        <bounds x="24" y="72" width="745" height="577"/>
+      </child>
+      <child xsi:type="archimate:Note" id="id-b875518ef1314f88a3bcdc1349dfb6d9" fillColor="#8080c0" borderType="1">
+        <bounds x="636" y="114" width="97" height="511"/>
+        <content>Motivation</content>
+      </child>
+    </element>
+  </folder>
+</archimate:model>
