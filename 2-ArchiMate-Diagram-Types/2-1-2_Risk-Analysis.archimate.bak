@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="2-1-2_Risk-Analysis" id="id-bc0714452db94785b2960b35a96a89d9" version="5.0.0">
+  <folder name="Strategy" id="id-b50c61aa79274503941cfe7cfc8dfdca" type="strategy"/>
+  <folder name="Business" id="id-7d1537ae63844413925b9ab567f3277f" type="business"/>
+  <folder name="Application" id="id-3215ab43a3504c4d991182303d10ea57" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-d7b354ebf6c14f8498b25e85561afcc8" type="technology"/>
+  <folder name="Motivation" id="id-4c021e0ea72b4018a6904adfdfe43e0b" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-279537bf3a9b47568d7f8aba6188375e" type="implementation_migration"/>
+  <folder name="Other" id="id-7e242c36496348a2b1a8b0c6f2398315" type="other"/>
+  <folder name="Relations" id="id-6fcc3696019f4c46b4697a669831bb5b" type="relations"/>
+  <folder name="Views" id="id-46a883b37c584b03b14ecafc473f6548" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="2-1-2_Risk-Analysis" id="id-34e22349f08b41b1bd471967d95bed65"/>
+  </folder>
+</archimate:model>
